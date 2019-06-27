@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="MenuAdditionBundle" type="PHP" />
+      <mapping pattern="degugs" type="PLAIN_TEXT" />
+      <mapping pattern="templates" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.avecPimPrefix" type="PLAIN_TEXT" />
+      <mapping pattern="create import job cmd" type="PLAIN_TEXT" />
+      <mapping pattern="create export job cmd" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
